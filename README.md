@@ -1,16 +1,16 @@
-### Hi there 👋
+### What's up?! 👋
 
-<!--
-**shiv213/shiv213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````bash
+> help --info
+> Dedicated, passionate learner with a growth mindset. Wish to pursue a career in computer science and business entrepreneurship. 
+> Love programming, biking, reading, and cooking. Interested in machine learning/artificial intelligence, app development, vision processing, and web design.
+````
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````bash
+> help --contact
+> mailto: shiv.v.trivedi(at)gmail.com
+> linkedin: https://www.linkedin.com/in/shiv-trivedi-08102b189/
+> instagram: shivvtrivedi
+> skating instagram: shiv.skates
+> github: shiv213
+````
