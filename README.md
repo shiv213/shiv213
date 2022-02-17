@@ -10,8 +10,9 @@
 
 ````bash
 > help --contact
-> mailto: shiv.v.trivedi(at)gmail.com
-> linkedin: https://www.linkedin.com/in/shiv-trivedi-08102b189/
+> website shivvtrivedi.com
+> mailto: me(at)shivvtrivedi.com
+> linkedin: shivvtrivedi
 > instagram: shivvtrivedi
 > skating instagram: shiv.skates
 > github: shiv213
