@@ -17,5 +17,3 @@
 > skating instagram: shiv.skates
 > github: shiv213
 ````
-
-![shiv213's github stats](https://github-readme-stats.vercel.app/api?username=shiv213&count_private=true&show_icons=true&theme=radical)
